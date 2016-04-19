@@ -1,0 +1,415 @@
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image1.xnb
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image2.xnb
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyer.xnb
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\pixel.xnb
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.exe
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.pdb
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.exe
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.pdb
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+c:\users\robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\hover.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space2.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space1.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space3.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.wma
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.wma
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Interceptor.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\enemyHealth.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\playerHealth.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\greenBullet.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Corvette.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Marauder.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Scout.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\BiggerFont.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\SmallerFont.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\MediumFont.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\redBullet.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Fighter.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Earth.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Jupiter.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mars.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mercury.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Neptune.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Pluto.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Saturn.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Sun.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Uranus.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Venus.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Draugr.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Eir.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Forseti.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Frigg.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Loki.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Meili.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Njorun.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Odin.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Snotra.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Thor.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop1.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Anubis.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Horus.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Isis.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nephtys.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nut.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Osiris.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Ra.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Set.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Sobek.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Shu.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorShot.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderShot.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutShot.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\PlayerShot.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.wma
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop2.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion2.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\explosion1.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyed.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorDestroyed.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderDestroyed.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutDestroyed.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\battle.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Rocket.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\retaliator.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion3.xnb
+C:\Users\Robert\documents\visual studio 2013\Projects\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\damage.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\BiggerFont.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\SmallerFont.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\MediumFont.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image1.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image2.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\pixel.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space2.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space1.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space3.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Interceptor.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\enemyHealth.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\playerHealth.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\greenBullet.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Fighter.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Corvette.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyer.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Marauder.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Scout.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\redBullet.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Earth.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Jupiter.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mars.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mercury.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Neptune.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Pluto.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Saturn.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Sun.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Uranus.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Venus.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Draugr.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Eir.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Forseti.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Frigg.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Loki.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Meili.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Njorun.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Odin.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Snotra.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Thor.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop1.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Anubis.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Horus.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Isis.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nephtys.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nut.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Osiris.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Ra.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Set.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Sobek.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Shu.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop2.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyed.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion2.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\battle.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Rocket.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\retaliator.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion3.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\hover.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorShot.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderShot.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutShot.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\PlayerShot.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\explosion1.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorDestroyed.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderDestroyed.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutDestroyed.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\damage.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.xnb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.wma
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.wma
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.wma
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.exe
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.exe
+C:\Users\William\Documents\Uni\Year 2\SCC210\Implementation\EnfinitumAeonUpdated\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\BiggerFont.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\SmallerFont.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\MediumFont.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\pixel.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space3.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Interceptor.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\enemyHealth.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\playerHealth.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\greenBullet.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Fighter.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Corvette.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyer.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Marauder.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Scout.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\redBullet.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Earth.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Jupiter.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mars.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mercury.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Neptune.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Pluto.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Saturn.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Sun.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Uranus.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Venus.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Draugr.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Eir.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Forseti.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Frigg.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Loki.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Meili.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Njorun.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Odin.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Snotra.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Thor.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Anubis.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Horus.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Isis.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nephtys.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nut.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Osiris.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Ra.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Set.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Sobek.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Shu.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\battle.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Rocket.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\retaliator.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion3.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\hover.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\PlayerShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\explosion1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorDestroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderDestroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutDestroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\damage.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.wma
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.wma
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.wma
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.exe
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.csprojResolveAssemblyReference.cache
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.exe
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\BiggerFont.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\SmallerFont.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\MediumFont.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\pixel.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space3.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Interceptor.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\enemyHealth.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\playerHealth.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\greenBullet.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Fighter.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Corvette.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyer.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Marauder.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Scout.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\redBullet.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Earth.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Jupiter.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mars.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mercury.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Neptune.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Pluto.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Saturn.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Sun.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Uranus.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Venus.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Draugr.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Eir.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Forseti.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Frigg.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Loki.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Meili.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Njorun.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Odin.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Snotra.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Thor.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Anubis.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Horus.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Isis.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nephtys.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nut.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Osiris.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Ra.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Set.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Sobek.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Shu.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\battle.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Rocket.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\retaliator.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion3.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\hover.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\PlayerShot.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\explosion1.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorDestroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderDestroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutDestroyed.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\damage.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.wma
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.wma
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.wma
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.exe
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.csprojResolveAssemblyReference.cache
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.exe
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\battleButton.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\displayStats2.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\displayStats3.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\displayStats3.xnb
+C:\Users\Vencislav\Desktop\EnfinitumAeon-nearly-done - Copy\EnfinitumAeon-nearly-done\EnfinitumAeon2\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\box.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\BiggerFont.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\SmallerFont.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\MediumFont.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image1.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image2.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\pixel.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space2.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space1.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space3.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Interceptor.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\enemyHealth.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\playerHealth.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\greenBullet.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Fighter.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Corvette.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyer.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Marauder.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Scout.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\redBullet.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Earth.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Jupiter.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mars.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mercury.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Neptune.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Pluto.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Saturn.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Sun.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Uranus.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Venus.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Draugr.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Eir.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Forseti.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Frigg.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Loki.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Meili.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Njorun.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Odin.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Snotra.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Thor.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop1.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Anubis.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Horus.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Isis.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nephtys.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nut.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Osiris.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Ra.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Set.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Sobek.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Shu.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop2.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyed.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion2.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Rocket.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\retaliator.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion3.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\battleButton.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\displayStats2.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\displayStats3.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\displayStats3.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\box.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\hover.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorShot.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderShot.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutShot.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\PlayerShot.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\explosion1.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorDestroyed.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderDestroyed.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutDestroyed.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\damage.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.wma
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.wma
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.wma
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.exe
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.exe
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\EnfinitumAeon2.pdb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\logo.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\intro.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\intro.wma
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\shipBox.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\yesNoBox.xnb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\controls.xnb

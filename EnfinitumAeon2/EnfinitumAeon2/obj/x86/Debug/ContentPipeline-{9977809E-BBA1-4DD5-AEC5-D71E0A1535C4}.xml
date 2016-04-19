@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\BiggerFont.spritefont</Source>
+      <Name>Fonts\BiggerFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\BiggerFont.xnb</Output>
+      <Time>2015-01-31T22:02:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SmallerFont.spritefont</Source>
+      <Name>Fonts\SmallerFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\SmallerFont.xnb</Output>
+      <Time>2015-02-03T16:23:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MediumFont.spritefont</Source>
+      <Name>Fonts\MediumFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\MediumFont.xnb</Output>
+      <Time>2015-02-10T10:45:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\image1.jpg</Source>
+      <Name>Backgrounds\image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image1.xnb</Output>
+      <Time>2015-01-31T13:12:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\image2.jpg</Source>
+      <Name>Backgrounds\image2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\image2.xnb</Output>
+      <Time>2015-01-31T13:12:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\pixel.png</Source>
+      <Name>Ships\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\pixel.xnb</Output>
+      <Time>2015-01-31T13:12:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MenuBackground.jpg</Source>
+      <Name>Backgrounds\MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\MenuBackground.xnb</Output>
+      <Time>2015-02-26T00:56:16.3348687+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\space2.jpg</Source>
+      <Name>Backgrounds\space2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space2.xnb</Output>
+      <Time>2015-01-31T13:12:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\space1.jpg</Source>
+      <Name>Backgrounds\space1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space1.xnb</Output>
+      <Time>2015-02-03T16:52:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\space3.jpg</Source>
+      <Name>Backgrounds\space3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\space3.xnb</Output>
+      <Time>2015-02-04T19:34:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Interceptor.png</Source>
+      <Name>Ships\Interceptor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Interceptor.xnb</Output>
+      <Time>2015-03-21T03:13:28.1554531+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\enemyHealth.png</Source>
+      <Name>Ships\enemyHealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\enemyHealth.xnb</Output>
+      <Time>2015-02-07T18:54:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\playerHealth.png</Source>
+      <Name>Ships\playerHealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\playerHealth.xnb</Output>
+      <Time>2015-02-07T19:05:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\greenBullet.png</Source>
+      <Name>Ships\greenBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\greenBullet.xnb</Output>
+      <Time>2015-02-11T20:26:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Fighter.png</Source>
+      <Name>Ships\Fighter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Fighter.xnb</Output>
+      <Time>2015-03-21T03:04:26.4184205+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Corvette.png</Source>
+      <Name>Ships\Corvette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Corvette.xnb</Output>
+      <Time>2015-02-09T22:09:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Destroyer.png</Source>
+      <Name>Ships\Destroyer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyer.xnb</Output>
+      <Time>2015-02-09T22:09:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Marauder.png</Source>
+      <Name>Ships\Marauder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Marauder.xnb</Output>
+      <Time>2015-03-21T03:12:36.1426224+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Scout.png</Source>
+      <Name>Ships\Scout</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Scout.xnb</Output>
+      <Time>2015-03-21T03:12:46.4661498+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\redBullet.png</Source>
+      <Name>Ships\redBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\redBullet.xnb</Output>
+      <Time>2015-02-11T20:26:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Earth.png</Source>
+      <Name>Planets\Level1\Earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Earth.xnb</Output>
+      <Time>2015-02-17T20:48:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Jupiter.png</Source>
+      <Name>Planets\Level1\Jupiter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Jupiter.xnb</Output>
+      <Time>2015-02-18T10:22:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Mars.png</Source>
+      <Name>Planets\Level1\Mars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mars.xnb</Output>
+      <Time>2015-02-17T20:48:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Mercury.png</Source>
+      <Name>Planets\Level1\Mercury</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Mercury.xnb</Output>
+      <Time>2015-02-17T20:48:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Neptune.png</Source>
+      <Name>Planets\Level1\Neptune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Neptune.xnb</Output>
+      <Time>2015-02-17T20:48:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Pluto.png</Source>
+      <Name>Planets\Level1\Pluto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Pluto.xnb</Output>
+      <Time>2015-02-17T20:48:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Saturn.png</Source>
+      <Name>Planets\Level1\Saturn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Saturn.xnb</Output>
+      <Time>2015-02-18T10:19:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Sun.png</Source>
+      <Name>Planets\Level1\Sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Sun.xnb</Output>
+      <Time>2015-02-17T20:48:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Uranus.png</Source>
+      <Name>Planets\Level1\Uranus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Uranus.xnb</Output>
+      <Time>2015-02-17T21:32:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level1\Venus.png</Source>
+      <Name>Planets\Level1\Venus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level1\Venus.xnb</Output>
+      <Time>2015-02-17T20:48:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Draugr.png</Source>
+      <Name>Planets\Level2\Draugr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Draugr.xnb</Output>
+      <Time>2015-02-18T10:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Eir.png</Source>
+      <Name>Planets\Level2\Eir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Eir.xnb</Output>
+      <Time>2015-02-18T10:30:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Forseti.png</Source>
+      <Name>Planets\Level2\Forseti</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Forseti.xnb</Output>
+      <Time>2015-02-18T10:31:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Frigg.png</Source>
+      <Name>Planets\Level2\Frigg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Frigg.xnb</Output>
+      <Time>2015-02-18T10:32:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Loki.png</Source>
+      <Name>Planets\Level2\Loki</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Loki.xnb</Output>
+      <Time>2015-02-18T10:32:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Meili.png</Source>
+      <Name>Planets\Level2\Meili</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Meili.xnb</Output>
+      <Time>2015-02-18T10:33:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Njorun.png</Source>
+      <Name>Planets\Level2\Njorun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Njorun.xnb</Output>
+      <Time>2015-02-18T10:34:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Odin.png</Source>
+      <Name>Planets\Level2\Odin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Odin.xnb</Output>
+      <Time>2015-02-18T10:59:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Snotra.png</Source>
+      <Name>Planets\Level2\Snotra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Snotra.xnb</Output>
+      <Time>2015-02-18T10:38:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level2\Thor.png</Source>
+      <Name>Planets\Level2\Thor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level2\Thor.xnb</Output>
+      <Time>2015-02-18T10:32:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\shop1.jpg</Source>
+      <Name>Backgrounds\shop1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop1.xnb</Output>
+      <Time>2015-02-22T18:25:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Anubis.png</Source>
+      <Name>Planets\Level3\Anubis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Anubis.xnb</Output>
+      <Time>2015-02-22T18:49:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Horus.png</Source>
+      <Name>Planets\Level3\Horus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Horus.xnb</Output>
+      <Time>2015-02-22T18:58:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Isis.png</Source>
+      <Name>Planets\Level3\Isis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Isis.xnb</Output>
+      <Time>2015-02-22T18:59:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Nephtys.png</Source>
+      <Name>Planets\Level3\Nephtys</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nephtys.xnb</Output>
+      <Time>2015-02-22T18:46:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Nut.png</Source>
+      <Name>Planets\Level3\Nut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Nut.xnb</Output>
+      <Time>2015-02-22T18:36:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Osiris.png</Source>
+      <Name>Planets\Level3\Osiris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Osiris.xnb</Output>
+      <Time>2015-02-22T18:35:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Ra.png</Source>
+      <Name>Planets\Level3\Ra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Ra.xnb</Output>
+      <Time>2015-02-22T18:55:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Set.png</Source>
+      <Name>Planets\Level3\Set</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Set.xnb</Output>
+      <Time>2015-02-22T18:35:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Sobek.png</Source>
+      <Name>Planets\Level3\Sobek</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Sobek.xnb</Output>
+      <Time>2015-02-22T18:48:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\Level3\Shu.png</Source>
+      <Name>Planets\Level3\Shu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\Level3\Shu.xnb</Output>
+      <Time>2015-02-22T18:57:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\shop2.jpg</Source>
+      <Name>Backgrounds\shop2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\shop2.xnb</Output>
+      <Time>2015-02-23T17:44:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Destroyed.png</Source>
+      <Name>Ships\Destroyed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Destroyed.xnb</Output>
+      <Time>2015-02-23T19:09:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\explosion2.png</Source>
+      <Name>Ships\explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion2.xnb</Output>
+      <Time>2015-02-23T19:10:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\Rocket.png</Source>
+      <Name>Ships\Rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\Rocket.xnb</Output>
+      <Time>2015-02-24T20:16:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\retaliator.png</Source>
+      <Name>Ships\retaliator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\retaliator.xnb</Output>
+      <Time>2015-02-24T21:19:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ships\explosion3.png</Source>
+      <Name>Ships\explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Ships\explosion3.xnb</Output>
+      <Time>2015-02-24T21:45:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\battleButton.png</Source>
+      <Name>Planets\battleButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\battleButton.xnb</Output>
+      <Time>2015-02-26T10:04:53.4275441+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\displayStats2.png</Source>
+      <Name>Planets\displayStats2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\displayStats2.xnb</Output>
+      <Time>2015-02-26T10:04:54.740106+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\displayStats3.png</Source>
+      <Name>Planets\displayStats3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\displayStats3.xnb</Output>
+      <Time>2015-02-26T10:04:55.036996+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\displayStats3.png</Source>
+      <Name>Backgrounds\displayStats3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\displayStats3.xnb</Output>
+      <Time>2015-02-25T23:27:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\box.png</Source>
+      <Name>Planets\box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\box.xnb</Output>
+      <Time>2015-02-26T10:04:54.208834+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\hover.wav</Source>
+      <Name>Sounds\hover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\hover.xnb</Output>
+      <Time>2015-01-31T23:03:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\InterceptorShot.wav</Source>
+      <Name>Sounds\InterceptorShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorShot.xnb</Output>
+      <Time>2015-02-23T13:39:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarauderShot.wav</Source>
+      <Name>Sounds\MarauderShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderShot.xnb</Output>
+      <Time>2015-02-23T13:44:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ScoutShot.wav</Source>
+      <Name>Sounds\ScoutShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutShot.xnb</Output>
+      <Time>2015-02-23T14:07:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerShot.wav</Source>
+      <Name>Sounds\PlayerShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\PlayerShot.xnb</Output>
+      <Time>2015-02-23T14:01:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion1.wav</Source>
+      <Name>Sounds\explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\explosion1.xnb</Output>
+      <Time>2015-02-23T21:50:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\InterceptorDestroyed.wav</Source>
+      <Name>Sounds\InterceptorDestroyed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\InterceptorDestroyed.xnb</Output>
+      <Time>2015-02-23T21:58:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarauderDestroyed.wav</Source>
+      <Name>Sounds\MarauderDestroyed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MarauderDestroyed.xnb</Output>
+      <Time>2015-02-23T22:57:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ScoutDestroyed.wav</Source>
+      <Name>Sounds\ScoutDestroyed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\ScoutDestroyed.xnb</Output>
+      <Time>2015-02-23T21:56:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\damage.wav</Source>
+      <Name>Sounds\damage</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\damage.xnb</Output>
+      <Time>2015-02-24T22:30:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MainMenu.mp3</Source>
+      <Name>Sounds\MainMenu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.xnb</Output>
+      <Extra>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\MainMenu.wma</Extra>
+      <Time>2015-02-04T23:06:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SpaceBackground.mp3</Source>
+      <Name>Sounds\SpaceBackground</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.xnb</Output>
+      <Extra>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\SpaceBackground.wma</Extra>
+      <Time>2015-02-04T23:07:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\combatSong.mp3</Source>
+      <Name>Sounds\combatSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.xnb</Output>
+      <Extra>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\combatSong.wma</Extra>
+      <Time>2015-02-24T10:14:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\logo.png</Source>
+      <Name>Fonts\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Fonts\logo.xnb</Output>
+      <Time>2015-02-26T02:43:49.0354754+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\intro.mp3</Source>
+      <Name>Sounds\intro</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\intro.xnb</Output>
+      <Extra>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Sounds\intro.wma</Extra>
+      <Time>2015-02-26T02:58:54.8097042+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\shipBox.png</Source>
+      <Name>Planets\shipBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\shipBox.xnb</Output>
+      <Time>2015-02-26T10:04:55.036996+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Planets\yesNoBox.png</Source>
+      <Name>Planets\yesNoBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Planets\yesNoBox.xnb</Output>
+      <Time>2015-02-26T10:04:55.036996+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\controls.jpg</Source>
+      <Name>Backgrounds\controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\Backgrounds\controls.xnb</Output>
+      <Time>2015-02-24T14:42:28+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9977809E-BBA1-4DD5-AEC5-D71E0A1535C4}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Robert\Documents\Visual Studio 2013\Projects\EnfinitumAeonFinal\EnfinitumAeon2\EnfinitumAeon2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-19T16:48:08.5301504+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

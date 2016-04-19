@@ -1,0 +1,10 @@
+Save/load schema:
+-->Text (.txt) file
+-->Stored as so:
+-->User stats (u): enfinitum,credits,ship type (1, 2 or 3),attack of ship,defence of ship, speed of ship.
+-->3 solar systems (s1/s2/s3): 0 if a plant is conquered or 1 if it's not. For each value. Comma separated. Full stop terminated.
+
+e.g.
+
+u:14,104,1,20,45,5.s1:0,0,0,1,1,1,1,0,1.s2:0,1,1,1,1,1,1,1,1.s3:1,0,0,1,1,1,1,0,1.
+etc...
